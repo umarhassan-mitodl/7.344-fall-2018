@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides citations and links to the readings for each weekly
   session of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -61,9 +59,9 @@ An Introduction to Cancer Metabolism: The Warburg Effect
 {{< tdopen >}}
 
 
-Cori, C.F., and Cori, G.T. (1925). "[The carbohydrate metabolism of tumors. II. Changes in the sugar, lactic acid, and co-combing power of blood passing through a tumor (PDF)](http://www.jbc.org/content/65/2/397.full.pdf)." _Journal of Biological Chemistry_ **65**, 397–405.
+Cori, C.F., and Cori, G.T. (1925). "{{% resource_link "26af39af-c510-415b-be5e-de4636091605" "The carbohydrate metabolism of tumors. II. Changes in the sugar, lactic acid, and co-combing power of blood passing through a tumor (PDF)" %}}." _Journal of Biological Chemistry_ **65**, 397–405.
 
-Christofk, H. R., Vander Heiden, M. G., Harris, M. H., Ramanathan, A., Gerszten, R. E., Wei, R., Fleming, M. D., Schreiber, S. L., and Cantley, L. C. (2008). "[The M2 splice isoform of pyruvate kinase is important for cancer metabolism and tumour growth](https://www.ncbi.nlm.nih.gov/pubmed/18337823)." _Nature_ **452**, 230–233.
+Christofk, H. R., Vander Heiden, M. G., Harris, M. H., Ramanathan, A., Gerszten, R. E., Wei, R., Fleming, M. D., Schreiber, S. L., and Cantley, L. C. (2008). "{{% resource_link "0aa0cd24-6d17-4c37-903f-9f0824053013" "The M2 splice isoform of pyruvate kinase is important for cancer metabolism and tumour growth" %}}." _Nature_ **452**, 230–233.
 
 
 {{< tdclose >}}
@@ -85,9 +83,9 @@ Role of Mitochondrial Function in Tumor Cell Growth
 {{< tdopen >}}
 
 
-Weinberg, F., Hamanaka, R., Wheaton, W. W., Weinberg, S., Joseph, J., Lopez, M., Kalyanaraman, B., Mutlu, G. M., Budinger, G. R., and Chandel, N. S. (2010). "[Mitochondrial metabolism and ROS generation are essential for Kras-mediated tumorigenicity](https://www.ncbi.nlm.nih.gov/pubmed/20421486)." _Proc Natl Acad Sci USA_ **107**, 8788–8793.
+Weinberg, F., Hamanaka, R., Wheaton, W. W., Weinberg, S., Joseph, J., Lopez, M., Kalyanaraman, B., Mutlu, G. M., Budinger, G. R., and Chandel, N. S. (2010). "{{% resource_link "bae95c69-98dc-449f-ba43-ea2873fc5a21" "Mitochondrial metabolism and ROS generation are essential for Kras-mediated tumorigenicity" %}}." _Proc Natl Acad Sci USA_ **107**, 8788–8793.
 
-Birsoy, K., Wang, T., Chen, W. W., Freinkman, E., Abu-Remaileh, M., and Sabatini, D. M. (2015). "[An essential role of the mitochondrial electron transport chain in cell proliferation is to enable aspartate synthesis](https://www.ncbi.nlm.nih.gov/pubmed/26232224)." _Cell_ **162**, 540–551.
+Birsoy, K., Wang, T., Chen, W. W., Freinkman, E., Abu-Remaileh, M., and Sabatini, D. M. (2015). "{{% resource_link "ec97b597-1f83-45c6-abce-07183c314c7f" "An essential role of the mitochondrial electron transport chain in cell proliferation is to enable aspartate synthesis" %}}." _Cell_ **162**, 540–551.
 
 
 {{< tdclose >}}
@@ -109,9 +107,9 @@ Amino Acid Metabolism
 {{< tdopen >}}
 
 
-Hosios, A. M., Hecht, V. C., Danai, L. V., Johnson, M. O., Rathmell, J. C., Steinhauser, M. L., et al. (2016). "[Amino acids rather than glucose account for the majority of cell mass in proliferating mammalian cells](https://www.ncbi.nlm.nih.gov/pubmed/26954548)." _Developmental Cell_, **36**, 540–549.
+Hosios, A. M., Hecht, V. C., Danai, L. V., Johnson, M. O., Rathmell, J. C., Steinhauser, M. L., et al. (2016). "{{% resource_link "1f7e5f6c-6a16-4497-921b-6c9d38681a73" "Amino acids rather than glucose account for the majority of cell mass in proliferating mammalian cells" %}}." _Developmental Cell_, **36**, 540–549.
 
-Labuschagne, C. F., van den Broek, N. J. F., Mackay, G. M., Vousden, K. H., & Maddocks, O. D. K. (2014). "[Serine, but not glycine, supports one-carbon metabolism and proliferation of cancer cells](https://www.ncbi.nlm.nih.gov/pubmed/24813884)." _Cell Reports_, **7**, 1248–1258.
+Labuschagne, C. F., van den Broek, N. J. F., Mackay, G. M., Vousden, K. H., & Maddocks, O. D. K. (2014). "{{% resource_link "26911062-8267-4305-911b-5729bee9d1cc" "Serine, but not glycine, supports one-carbon metabolism and proliferation of cancer cells" %}}." _Cell Reports_, **7**, 1248–1258.
 
 
 {{< tdclose >}}
@@ -133,9 +131,9 @@ Nucleotide and Lipid Metabolism
 {{< tdopen >}}
 
 
-Lunt, S. Y., Muralidhar, V., Hosios, A. M., Israelsen, W. J., Gui, D. Y., Newhouse, L., Ogrodzinski, M., Hecht, V., Xu, K., Acevedo, P. N., Hollern, D. P., Bellinger, G., Dayton, T. L., Christen, S., Elia, I., Dinh, A. T., Stephanopoulos, G., Manalis, S. R., Yaffe, M. B., Andrechek, E. R., Fendt, S. M., and Vander Heiden, M. G. (2015). "[Pyruvate kinase isoform expression alters nucleotide synthesis to impact cell proliferation](https://www.ncbi.nlm.nih.gov/pubmed/25482511)." _Molecular Cell_ **57**, 95–107.
+Lunt, S. Y., Muralidhar, V., Hosios, A. M., Israelsen, W. J., Gui, D. Y., Newhouse, L., Ogrodzinski, M., Hecht, V., Xu, K., Acevedo, P. N., Hollern, D. P., Bellinger, G., Dayton, T. L., Christen, S., Elia, I., Dinh, A. T., Stephanopoulos, G., Manalis, S. R., Yaffe, M. B., Andrechek, E. R., Fendt, S. M., and Vander Heiden, M. G. (2015). "{{% resource_link "e44cfe58-f04d-4d2f-8eb3-9248f939e40e" "Pyruvate kinase isoform expression alters nucleotide synthesis to impact cell proliferation" %}}." _Molecular Cell_ **57**, 95–107.
 
-Svensson, R. U., Parker, S. J., Eichner, L. J., Kolar, M. J., Wallace, M., Brun, S. N., Lombardo, P. S., Van Nostrand, J. L., Hutchins, A., Vera, L., Gerken, L., Greenwood, J., Bhat, S., Harriman, G., Westlin, W. F., Harwood, H. J., Saghatelian, A., Kapeller, R., Metallo, C. M., and Shaw, R. J. (2016). "[Inhibition of acetyl-CoA carboxylase suppresses fatty acid synthesis and tumor growth of non-small-cell lung cancer in preclinical models](https://www.ncbi.nlm.nih.gov/pubmed/27643638)." _Nature Medicine_ **22**, 1108–1119.
+Svensson, R. U., Parker, S. J., Eichner, L. J., Kolar, M. J., Wallace, M., Brun, S. N., Lombardo, P. S., Van Nostrand, J. L., Hutchins, A., Vera, L., Gerken, L., Greenwood, J., Bhat, S., Harriman, G., Westlin, W. F., Harwood, H. J., Saghatelian, A., Kapeller, R., Metallo, C. M., and Shaw, R. J. (2016). "{{% resource_link "5db62e6f-dd41-4145-93d5-c588d6d21e5f" "Inhibition of acetyl-CoA carboxylase suppresses fatty acid synthesis and tumor growth of non-small-cell lung cancer in preclinical models" %}}." _Nature Medicine_ **22**, 1108–1119.
 
 
 {{< tdclose >}}
@@ -157,9 +155,9 @@ Mutations in Isocitrate Dehydrogenase and the Discovery of a Neomorphic Activity
 {{< tdopen >}}
 
 
-Zhao, S., Lin, Y., Xu, W., Jiang, W., Zha, Z., Wang, P., Yu, W., Li, Z., Gong, L., Peng, Y., Ding, J., Lei, Q., Guan, K. L., and Xiong, Y. (2009). "[Glioma-derived mutations in IDH1 dominantly inhibit IDH1 catalytic activity and induce HIF-1alpha](https://www.ncbi.nlm.nih.gov/pubmed/19359588)." _Science_ **324**, 261–265.
+Zhao, S., Lin, Y., Xu, W., Jiang, W., Zha, Z., Wang, P., Yu, W., Li, Z., Gong, L., Peng, Y., Ding, J., Lei, Q., Guan, K. L., and Xiong, Y. (2009). "{{% resource_link "61f7b9f7-a103-4f1a-8062-3d853cd8dcae" "Glioma-derived mutations in IDH1 dominantly inhibit IDH1 catalytic activity and induce HIF-1alpha" %}}." _Science_ **324**, 261–265.
 
-Ward, P. S., Patel, J., Wise, D. R., Abdel-Wahab, O., Bennett, B. D., Coller, H. A., Cross, J. R., Fantin, V. R., Hedvat, C. V., Perl, A. E., Rabinowitz, J. D., Carroll, M., Su, S. M., Sharp, K. A., Levine, R. L., and Thompson, C. B. (2010). "[The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate](https://www.ncbi.nlm.nih.gov/pubmed/20171147)." _Cancer Cell_ **17**, 225–234.
+Ward, P. S., Patel, J., Wise, D. R., Abdel-Wahab, O., Bennett, B. D., Coller, H. A., Cross, J. R., Fantin, V. R., Hedvat, C. V., Perl, A. E., Rabinowitz, J. D., Carroll, M., Su, S. M., Sharp, K. A., Levine, R. L., and Thompson, C. B. (2010). "{{% resource_link "9eac159d-f8b9-40d3-8a61-413ffa8f4ad0" "The common feature of leukemia-associated IDH1 and IDH2 mutations is a neomorphic enzyme activity converting alpha-ketoglutarate to 2-hydroxyglutarate" %}}." _Cancer Cell_ **17**, 225–234.
 
 
 {{< tdclose >}}
@@ -179,9 +177,9 @@ Ward, P. S., Patel, J., Wise, D. R., Abdel-Wahab, O., Bennett, B. D., Coller, H.
 
 {{< tdclose >}}
 {{< tdopen >}}
-Chowdhury, R., Yeoh, K. K., Tian, Y. M., Hillringhaus, L., Bagg, E. A., Rose, N. R., Leung, I. K. H., Li, X. S., Woon, E. C. Y., Yang, M., McDonough, M. A., King, O. N., Clifton, I. J., Klose, R. J., Claridge, T. D. W., Ratcliffe, P. J., Schofield, C. J., and Kawamura, A. (2011). "[The oncometabolite 2-hydroxyglutarate inhibits histone lysine demethylases](https://www.ncbi.nlm.nih.gov/pubmed/21460794)." _Embo Reports_ **12**, 463–469.
+Chowdhury, R., Yeoh, K. K., Tian, Y. M., Hillringhaus, L., Bagg, E. A., Rose, N. R., Leung, I. K. H., Li, X. S., Woon, E. C. Y., Yang, M., McDonough, M. A., King, O. N., Clifton, I. J., Klose, R. J., Claridge, T. D. W., Ratcliffe, P. J., Schofield, C. J., and Kawamura, A. (2011). "{{% resource_link "4dcd56a7-4cef-431b-8baf-53beb70af41c" "The oncometabolite 2-hydroxyglutarate inhibits histone lysine demethylases" %}}." _Embo Reports_ **12**, 463–469.
 
-Intlekofer, A. M., Shih, A. H., Wang, B., Nazir, A., Rustenburg, A. S., Albanese, S. K., Patel, M., Famulare, C., Correa, F.M., Takemoto, N., Durani, V., Liu, H., Taylor, J., Farnoud, N., Papaemmanuil, E., Cross, J.R., Tallman, M.S., Arcila, M.E., Roshal, M., Petsko, G.A., Wu, B., Choe, S., Konteatis, Z.D., Biller, S.A., Chodera, J.D., Thompson, C.B., Levine, R.L., Stein, E.M. (2018). "[Acquired resistance to IDH inhibition through trans or cis dimer-interface mutations](https://www.ncbi.nlm.nih.gov/pubmed/29950729)." _Nature_ **559**, 125–129.
+Intlekofer, A. M., Shih, A. H., Wang, B., Nazir, A., Rustenburg, A. S., Albanese, S. K., Patel, M., Famulare, C., Correa, F.M., Takemoto, N., Durani, V., Liu, H., Taylor, J., Farnoud, N., Papaemmanuil, E., Cross, J.R., Tallman, M.S., Arcila, M.E., Roshal, M., Petsko, G.A., Wu, B., Choe, S., Konteatis, Z.D., Biller, S.A., Chodera, J.D., Thompson, C.B., Levine, R.L., Stein, E.M. (2018). "{{% resource_link "6225bb2e-5926-453e-993e-9a3e2ff8c1e5" "Acquired resistance to IDH inhibition through trans or cis dimer-interface mutations" %}}." _Nature_ **559**, 125–129.
 
 
 {{< tdclose >}}
@@ -225,9 +223,9 @@ Oncogenes and Metabolism: How Genetic Changes Alter Cancer Metabolism
 {{< tdopen >}}
 
 
-Son, J., Lyssiotis, C.A., Ying, H.Q., Wang, X.X., Hua, S.J., Ligorio, M., Perera, R.M., Ferrone, C.R., Mullarky, E., Shyh-Chang, N._,_ Kang, Y., Fleming, J.B., Bardeesy, N., Asara, J.M., Haigis, M.C., DePinho, R.A., Cantley, L.C., Kimmelman, A.C. (2013). "[Glutamine supports pancreatic cancer growth through a KRAS-regulated metabolic pathway](https://www.nature.com/articles/nature12040)." _Nature_ **496**, 101–105.
+Son, J., Lyssiotis, C.A., Ying, H.Q., Wang, X.X., Hua, S.J., Ligorio, M., Perera, R.M., Ferrone, C.R., Mullarky, E., Shyh-Chang, N._,_ Kang, Y., Fleming, J.B., Bardeesy, N., Asara, J.M., Haigis, M.C., DePinho, R.A., Cantley, L.C., Kimmelman, A.C. (2013). "{{% resource_link "0a96fbd9-558b-4ba2-8394-6782be728a83" "Glutamine supports pancreatic cancer growth through a KRAS-regulated metabolic pathway" %}}." _Nature_ **496**, 101–105.
 
-Yuneva, M. O., Fan, T. W. M., Allen, T. D., Higashi, R. M., Ferraris, D. V., Tsukamoto, T., Mates, J. M., Alonso, F. J., Wang, C. M., Seo, Y., Chen, X., and Bishop, J. M. (2012). "[The metabolic profile of tumors depends on both the responsible genetic lesion and tissue type](http://europepmc.org/articles/pmc3282107)." _Cell Metabolism_ **15**, 157–170.
+Yuneva, M. O., Fan, T. W. M., Allen, T. D., Higashi, R. M., Ferraris, D. V., Tsukamoto, T., Mates, J. M., Alonso, F. J., Wang, C. M., Seo, Y., Chen, X., and Bishop, J. M. (2012). "{{% resource_link "4c2d1cb6-1ffb-4029-ac93-08ba52a0c10a" "The metabolic profile of tumors depends on both the responsible genetic lesion and tissue type" %}}." _Cell Metabolism_ **15**, 157–170.
 
 
 {{< tdclose >}}
@@ -249,9 +247,9 @@ Context Matters! How Tissue Environment Alters Cancer Cell Metabolism
 {{< tdopen >}}
 
 
-Davidson, S. M., Papagiannakopoulos, T., Olenchock, B. A., Heyman, J. E., Keibler, M. A., Luengo, A., Bauer, M. R., Jha, A. K., O’Brien, J. P., Pierce, K. A., Gui, D. Y., Sullivan, L. B., Wasylenko, T. M., Subbaraj, L., Chin, C. R., Stephanopolous, G., Mott, B. T., Jacks, T., Clish, C. B., and Vander Heiden, M. G. (2016). "[Environment impacts the metabolic dependencies of Ras-driven non-small cell lung cancer](https://www.ncbi.nlm.nih.gov/pubmed/26853747)." _Cell Metabolism_ **23**, 517–528.
+Davidson, S. M., Papagiannakopoulos, T., Olenchock, B. A., Heyman, J. E., Keibler, M. A., Luengo, A., Bauer, M. R., Jha, A. K., O’Brien, J. P., Pierce, K. A., Gui, D. Y., Sullivan, L. B., Wasylenko, T. M., Subbaraj, L., Chin, C. R., Stephanopolous, G., Mott, B. T., Jacks, T., Clish, C. B., and Vander Heiden, M. G. (2016). "{{% resource_link "ab4b0469-a4dc-4fef-97ff-5e5eb2413107" "Environment impacts the metabolic dependencies of Ras-driven non-small cell lung cancer" %}}." _Cell Metabolism_ **23**, 517–528.
 
-Cantor, J. R., Abu-Remaileh, M., Kanarek, N., Freinkman, E., Gao, X., Louissaint, A., Lewis, C. A., and Sabatini, D. M. (2017). "[Physiologic medium rewires cellular metabolism and reveals uric acid as an endogenous inhibitor of UMP synthase](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5421364/)." _Cell_ **169**, 258–272.e17.
+Cantor, J. R., Abu-Remaileh, M., Kanarek, N., Freinkman, E., Gao, X., Louissaint, A., Lewis, C. A., and Sabatini, D. M. (2017). "{{% resource_link "e3530771-87ae-4a31-8799-059e0d9df038" "Physiologic medium rewires cellular metabolism and reveals uric acid as an endogenous inhibitor of UMP synthase" %}}." _Cell_ **169**, 258–272.e17.
 
 
 {{< tdclose >}}
@@ -271,9 +269,9 @@ Metabolic Interactions of Stroma Cells and Cancer
 
 {{< tdclose >}}
 {{< tdopen >}}
-Sousa, C.M., Biancur, D.E., Wang, X., Halbrook, C.J., Sherman, M.H., Zhang, L., Kremer, D., Hwang, R.F., Witkiewicz, A.K., Ying H, Asara, J.M., Evans, R.M., Cantley, L.C., Lyssiotis, C.A., Kimmelman, A.C. (2016). "[Pancreatic stellate cells support tumour metabolism through autophagic alanine secretion](https://www.ncbi.nlm.nih.gov/pubmed/27509858)." _Nature_ **536**, 479–483.
+Sousa, C.M., Biancur, D.E., Wang, X., Halbrook, C.J., Sherman, M.H., Zhang, L., Kremer, D., Hwang, R.F., Witkiewicz, A.K., Ying H, Asara, J.M., Evans, R.M., Cantley, L.C., Lyssiotis, C.A., Kimmelman, A.C. (2016). "{{% resource_link "57a40373-dcc8-4db8-a67c-eebe41aed69d" "Pancreatic stellate cells support tumour metabolism through autophagic alanine secretion" %}}." _Nature_ **536**, 479–483.
 
-Linares, J. F., Cordes, T., Duran, A., Reina-Campos, M., Valencia, T., Ahn, C. S., Castilla, E.A., Moscat, J., Metallo, C.M., Diaz-Meco, M.T. (2017). "[ATF4-induced metabolic reprograming is a synthetic vulnerability of the p62-deficient tumor stroma](https://www.ncbi.nlm.nih.gov/pubmed/28988820)." _Cell Metabolism_ **26**, 817–829.e6.
+Linares, J. F., Cordes, T., Duran, A., Reina-Campos, M., Valencia, T., Ahn, C. S., Castilla, E.A., Moscat, J., Metallo, C.M., Diaz-Meco, M.T. (2017). "{{% resource_link "406759ef-7b42-4c24-b1a4-fd47f021aa79" "ATF4-induced metabolic reprograming is a synthetic vulnerability of the p62-deficient tumor stroma" %}}." _Cell Metabolism_ **26**, 817–829.e6.
 
 
 {{< tdclose >}}
@@ -295,9 +293,9 @@ Impact of Diet on Tumor Metabolism and Progression
 {{< tdopen >}}
 
 
-Maddocks, O. D. K., Athineos, D., Cheung, E. C., Lee, P., Zhang, T., van den Broek, N. J. F., Mackay, G. M., Labuschagne, C. F., Gay, D., Kruiswijk, F., Blagih, J., Vincent, D. F., Campbell, K. J., Ceteci, F., Sansom, O. J., Blyth, K., and Vousden, K. H. (2017). "[Modulating the therapeutic response of tumours to dietary serine and glycine starvation](https://www.ncbi.nlm.nih.gov/pubmed/28425994)." _Nature_ **544**, 372–376.
+Maddocks, O. D. K., Athineos, D., Cheung, E. C., Lee, P., Zhang, T., van den Broek, N. J. F., Mackay, G. M., Labuschagne, C. F., Gay, D., Kruiswijk, F., Blagih, J., Vincent, D. F., Campbell, K. J., Ceteci, F., Sansom, O. J., Blyth, K., and Vousden, K. H. (2017). "{{% resource_link "b2457668-5cf1-4ab3-a9bd-54b10551912b" "Modulating the therapeutic response of tumours to dietary serine and glycine starvation" %}}." _Nature_ **544**, 372–376.
 
-Hopkins, B. D., Pauli, C., Du, X., Wang, D. G., Li, X., Wu, D., Amadiume, S. C., Goncalves, M. D., Hodakoski, C., Lundquist, M. R., Bareja, R., Ma, Y., Harris, E. M., Sboner, A., Beltran, H., Rubin, M. A., Mukherjee, S., and Cantley, L. C. (2018). "[Suppression of insulin feedback enhances the efficacy of PI3K inhibitors](https://www.ncbi.nlm.nih.gov/pubmed/30051890)." _Nature_, **560**, 499–503.
+Hopkins, B. D., Pauli, C., Du, X., Wang, D. G., Li, X., Wu, D., Amadiume, S. C., Goncalves, M. D., Hodakoski, C., Lundquist, M. R., Bareja, R., Ma, Y., Harris, E. M., Sboner, A., Beltran, H., Rubin, M. A., Mukherjee, S., and Cantley, L. C. (2018). "{{% resource_link "b0e871d2-021c-4554-81c9-6fa58f67333d" "Suppression of insulin feedback enhances the efficacy of PI3K inhibitors" %}}." _Nature_, **560**, 499–503.
 
 
 {{< tdclose >}}
